@@ -1,5 +1,10 @@
 # AI 制片厂 · AI Studio
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Version](https://img.shields.io/badge/version-v1.3-blue)](#)
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-compatible-blueviolet)](https://claude.ai/code)
+[![Codex](https://img.shields.io/badge/Codex%20CLI-compatible-green)](https://github.com/openai/codex)
+
 > 用电影工业的分工逻辑做短视频：AI 负责执行，你负责判断。
 
 ---
