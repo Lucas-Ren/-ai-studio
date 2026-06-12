@@ -1,0 +1,13 @@
+# 用户个人内容（不随系统更新覆盖）
+Projects/
+User_Overrides.local.md
+
+# 本地 AI 工具权限配置
+.claude/settings.local.json
+
+# 课程/推广素材（非系统内容）
+course_promo/
+
+# macOS 系统文件
+.DS_Store
+**/.DS_Store
