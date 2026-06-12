@@ -25,6 +25,14 @@ AI 制片厂是一套运行在 AI 编程工具（Claude Code / Codex）上的短
 
 ---
 
+## 演示视频
+
+[![零基础可学习：短视频全流程智能生成系统——AI 制片厂 第二期](assets/demo_thumbnail.jpg)](https://www.bilibili.com/video/BV1jeVf6wEz5/)
+
+▶ [B站观看：零基础可学习：短视频全流程智能生成系统——AI 制片厂 第二期](https://www.bilibili.com/video/BV1jeVf6wEz5/)
+
+---
+
 ## 前提条件（必读）
 
 在开始之前，你需要：
