@@ -5,6 +5,8 @@
 [![Claude Code](https://img.shields.io/badge/Claude%20Code-compatible-blueviolet)](https://claude.ai/code)
 [![Codex](https://img.shields.io/badge/Codex%20CLI-compatible-green)](https://github.com/openai/codex)
 
+![AI 制片厂 Banner](assets/banner_cinematic.png)
+
 > 用电影工业的分工逻辑做短视频：AI 负责执行，你负责判断。
 
 ---
@@ -16,6 +18,8 @@ AI 制片厂是一套运行在 AI 编程工具（Claude Code / Codex）上的短
 它把电影工厂的角色分工移植进来：研究员、制片人、编剧、导演、美术指导、分镜师、配音、剪辑、宣发、数据分析师——10 个角色各司其职，每一步 AI 先执行、先自检，你只做品质判断。系统有记忆（频道配置持久化），有规则（Layer 1 自动守），有闭环（数据分析 → 配置迭代）。
 
 和"让 AI 帮我写脚本"的本质区别：**这不是一次性生成，这是建一个自己的制片厂**。
+
+![系统架构蓝图](assets/banner_blueprint.png)
 
 → 详细介绍见 [`介绍文档.md`](介绍文档.md)
 
@@ -39,7 +43,7 @@ AI 制片厂是一套运行在 AI 编程工具（Claude Code / Codex）上的短
 
 ```bash
 # 1. 克隆仓库
-git clone https://github.com/你的用户名/ai-studio.git
+git clone https://github.com/Lucas-Ren/ai-studio.git
 cd ai-studio
 
 # 2. 建立你的个人配置文件（gitignored，不会随系统更新被覆盖）
